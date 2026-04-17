@@ -6,3 +6,4 @@ langchain-openai
 langchain-core
 portkey-ai
 httpx
+langchain-classic

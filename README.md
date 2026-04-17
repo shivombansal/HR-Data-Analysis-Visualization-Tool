@@ -162,16 +162,4 @@ Query results and manually selected columns are passed to Plotly Express to rend
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgements
-
-- [Streamlit](https://streamlit.io/) — UI framework
-- [LangChain](https://www.langchain.com/) — LLM orchestration
-- [Portkey AI](https://portkey.ai/) — LLM gateway and observability
-- [Plotly](https://plotly.com/python/) — Interactive charting
-- [OpenAI](https://openai.com/) — GPT-4o-mini for SQL generation and analysis
+# Streamlit deployment [link](https://rabiztek-analytics.streamlit.app/)

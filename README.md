@@ -146,12 +146,6 @@ Query results and manually selected columns are passed to Plotly Express to rend
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your dashboard, query section, and visualization panel here.
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repository

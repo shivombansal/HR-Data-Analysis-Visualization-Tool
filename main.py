@@ -4,9 +4,9 @@ import sqlite3
 import plotly.express as px
 from plotly.graph_objects import Figure
 from langchain_openai import ChatOpenAI
-from langchain.prompts import ChatPromptTemplate
+from langchain_classic.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain.prompts import SystemMessagePromptTemplate, HumanMessagePromptTemplate
+from langchain_classic.prompts import SystemMessagePromptTemplate, HumanMessagePromptTemplate
 from portkey_ai import PORTKEY_GATEWAY_URL
 import httpx
 import re
